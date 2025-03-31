@@ -6,4 +6,8 @@ public class foobarOne {
         System.out.println("Success");
     }
 
+    public void Moremessages() {
+        System.out.println("fdjasklfads");
+    }
+
 }
